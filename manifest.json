@@ -1,0 +1,14 @@
+{
+  "name": "Cairn Shared Pool",
+  "version": "1.0.1",
+  "manifest_version": 1,
+  "description": "Add dice together, roll once, and share the highest result.",
+  "icon": "/cairn-shared-pool/icon.svg",
+  "action": {
+    "title": "Cairn Shared Pool",
+    "icon": "/cairn-shared-pool/icon.svg",
+    "popover": "/cairn-shared-pool/index.html",
+    "width": 420,
+    "height": 660
+  }
+}
